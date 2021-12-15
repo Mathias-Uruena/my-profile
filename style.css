@@ -1,0 +1,12 @@
+Body {
+background-color:black;
+color:white;
+front-family:courier;
+}
+h1,h2;h3{
+  front-family: courier;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
